@@ -1,0 +1,27 @@
+{
+  "name": "kijish",
+  "displayName": "kijish",
+  "description": "A dark pastel theme derived from the Dark Pastel palette (Qterminal / xfce4-terminal)",
+  "version": "1.0.0-20260228-1743",
+  "publisher": "kj-sh604",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "kijish",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kijish-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kj-sh604/kijish-vscode-theme"
+  }
+}
