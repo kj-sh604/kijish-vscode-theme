@@ -31,11 +31,11 @@ a dark VSCode theme derived from the **Dark Pastel** palette found in Qterminal 
 cp -r . ~/.vscode/extensions/kijish
 ```
 
-Then restart VS Code and select **kijish** from the Color Theme picker (`Ctrl+K Ctrl+T`).
+then restart VS Code and select **kijish** from the Color Theme picker (`Ctrl+K Ctrl+T`).
 
 ### package and install via vsix
 
-Requires [vsce](https://github.com/microsoft/vscode-vsce):
+requires [vsce](https://github.com/microsoft/vscode-vsce):
 
 ```sh
 npm install -g @vscode/vsce
@@ -51,4 +51,4 @@ make install  # builds and installs automatically
 
 ## license
 
-This work is licensed under the Creative Commons CC0 1.0 Universal License. To view a copy of this license, visit http://creativecommons.org/publicdomain/zero/1.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+this work is licensed under the Creative Commons CC0 1.0 Universal License. To view a copy of this license, visit http://creativecommons.org/publicdomain/zero/1.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
