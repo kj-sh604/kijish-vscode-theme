@@ -4,24 +4,26 @@ a dark VSCode theme derived from the **Dark Pastel** palette found in Qterminal 
 
 ## dark-pastels.colors
 
-| Role            | Hex       |
-|-----------------|-----------|
-| Background      | `#2c2c2c` |
-| Foreground      | `#dcdcdc` |
-| Black           | `#3f3f3f` |
-| Red             | `#d67979` |
-| Green           | `#60b48a` |
-| Yellow          | `#dfaf8f` |
-| Blue            | `#9ab8d7` |
-| Magenta         | `#dc8cc3` |
-| Cyan            | `#8cd0d3` |
-| Bright Black    | `#709080` |
-| Bright Red      | `#dca3a3` |
-| Bright Green    | `#72d5a3` |
-| Bright Yellow   | `#f0dfaf` |
-| Bright Blue     | `#94bff3` |
-| Bright Magenta  | `#ec93d3` |
-| Bright Cyan     | `#93e0e3` |
+```
+| role            | hex     |
+|-----------------|---------|
+| background      | #2c2c2c |
+| foreground      | #dcdcdc |
+| black           | #3f3f3f |
+| red             | #d67979 |
+| green           | #60b48a |
+| yellow          | #dfaf8f |
+| blue            | #9ab8d7 |
+| magenta         | #dc8cc3 |
+| cyan            | #8cd0d3 |
+| bright black    | #709080 |
+| bright red      | #dca3a3 |
+| bright green    | #72d5a3 |
+| bright yellow   | #f0dfaf |
+| bright blue     | #94bff3 |
+| bright magenta  | #ec93d3 |
+| bright cyan     | #93e0e3 |
+```
 
 ## install
 
