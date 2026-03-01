@@ -2,7 +2,7 @@
   "name": "kijish-vscode-theme",
   "displayName": "KiJiSH Dark",
   "description": "A dark pastel theme derived from the Dark Pastel palette (Qterminal / xfce4-terminal)",
-  "version": "1.0.0-20260228-1830",
+  "version": "1.0.0-20260228-2105",
   "publisher": "kj-sh604",
   "license": "MIT",
   "engines": {
