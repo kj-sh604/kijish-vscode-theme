@@ -368,7 +368,6 @@
       ],
       "settings": {
         "foreground": "#709080",
-        "fontStyle": "italic"
       }
     },
     {
@@ -548,7 +547,6 @@
       ],
       "settings": {
         "foreground": "#94bff3",
-        "fontStyle": "italic"
       }
     },
     {
@@ -705,7 +703,6 @@
       ],
       "settings": {
         "foreground": "#94bff3",
-        "fontStyle": "bold"
       }
     },
     {
@@ -715,7 +712,6 @@
       ],
       "settings": {
         "foreground": "#f0dfaf",
-        "fontStyle": "bold"
       }
     },
     {
@@ -725,7 +721,6 @@
       ],
       "settings": {
         "foreground": "#dca3a3",
-        "fontStyle": "italic"
       }
     },
     {
@@ -754,7 +749,6 @@
       ],
       "settings": {
         "foreground": "#709080",
-        "fontStyle": "italic"
       }
     },
     {
