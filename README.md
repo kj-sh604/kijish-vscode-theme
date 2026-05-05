@@ -1,4 +1,4 @@
-# kijish
+# `kijish` VSCode Theme 
 
 a dark VSCode theme derived from the **Dark Pastel** palette found in Qterminal and xfce4-terminal.
 
