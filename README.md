@@ -2,7 +2,7 @@
 
 a dark VSCode theme derived from the **Dark Pastel** palette found in Qterminal and xfce4-terminal.
 
-![screenshot of color scheme](https://kj-media.online/pics/kijish-vscode-theme/556472004-77c69710-099e-4dca-9172-fa7d608db44c.png)
+!<img width="1433" height="997" alt="screenshot of the color scheme" src="https://kj-media.online/pics/kijish-vscode-theme/556472004-77c69710-099e-4dca-9172-fa7d608db44c.png" />
 
 ## dark-pastels.colors
 
